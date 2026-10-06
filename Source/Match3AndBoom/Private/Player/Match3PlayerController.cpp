@@ -3,3 +3,7 @@
 
 #include "Player/Match3PlayerController.h"
 
+AMatch3PlayerController::AMatch3PlayerController()
+{
+	bShowMouseCursor = true;
+}

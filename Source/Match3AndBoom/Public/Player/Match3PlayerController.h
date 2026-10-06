@@ -14,4 +14,6 @@ class MATCH3ANDBOOM_API AMatch3PlayerController : public APlayerController
 {
 	GENERATED_BODY()
 	
+public:
+	AMatch3PlayerController();
 };
